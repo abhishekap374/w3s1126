@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>w3s1126 is the employee id of some XYZ company</name>
+  <name>w3s1126 is an employee id of some XYZ company. It has successfully packaged and deployed. Thank you.</name>
   <url>http://maven.apache.org</url>
 
   <properties>
